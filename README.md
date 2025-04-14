@@ -25,11 +25,9 @@ Além do desenvolvimento do dashboard em si, o projeto inclui agora:
 - ✅ **Seção de apresentação do projeto e formulário de contato (estático)**
 - ✅ Interface responsiva com foco em experiência do usuário
 
-### 💻 Página Inicial
+### 💻 Página Inicial - HTML
 
 A página HTML serve como uma vitrine introdutória ao projeto, com botão de acesso ao dashboard, explicação do objetivo e campo de contato.
-
-![Página Inicial](./image.png)
 
 ---
 
